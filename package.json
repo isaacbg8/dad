@@ -1,0 +1,22 @@
+{
+  "name": "dad",
+  "version": "1.0.0",
+  "description": "dad",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacbg8/dad.git"
+  },
+  "author": "Isaac Graves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacbg8/dad/issues"
+  },
+  "homepage": "https://github.com/isaacbg8/dad#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
